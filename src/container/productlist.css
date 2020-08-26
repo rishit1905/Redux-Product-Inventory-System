@@ -1,0 +1,35 @@
+#flex-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem 0 1rem 0;
+}
+
+#flex-container2 input[type=search] {
+    text-align: center;
+    border: none;
+    width: 600px;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;    
+}
+
+li {
+    width:225px;
+    background: white;
+    box-shadow: 0 0 0.5rem black;
+    text-align: center;
+    margin:1rem 1rem 0 0;
+    font-weight: 550;
+    cursor: pointer;
+}
+
+img {
+    width: 220px;
+    height:210px;
+}

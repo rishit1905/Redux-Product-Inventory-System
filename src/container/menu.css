@@ -1,0 +1,37 @@
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    background: rgb(39, 38, 38);
+}
+
+.flex-container #item1{
+    flex-grow: 8;
+    color: azure;
+    margin-left: 1rem;
+}
+
+.flex-container #item2, .flex-container #item3{
+    flex-grow: 1;
+}
+
+.headerButton {
+    background: rgb(39, 38, 38);
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    border: 0px;
+    transition: all 0.2s ease-in;
+    cursor: pointer;
+}
+
+.headerButton:hover {
+    background: rgb(29, 28, 28);
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    border: 0px;
+    cursor: pointer;
+    transition: all 0.2s ease-in;
+}

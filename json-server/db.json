@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "imageURL": "https://i.gadgets360cdn.com/products/large/1555507135_635_samsung_galaxy_a60.jpg",
+      "name": "Samsung",
+      "category": "Mobiles",
+      "price": "35999",
+      "quantity": "11",
+      "stock": "Yes",
+      "id": 1
+    },
+    {
+      "imageURL": "https://images.jdmagicbox.com/quickquotes/images_main/dell-inspiron-3493-14-fhd-thin-and-light-laptop-10th-gen-ci5-1035g1-8gb-1tb-hdd-windows-10-ms-office-intel-hd-graphics-silver-no-bag-184486158-msjik.jpg",
+      "name": "Dell Inspiron",
+      "category": "Laptops",
+      "price": "115000",
+      "quantity": "10",
+      "stock": "Yes",
+      "id": 4
+    },
+    {
+      "imageURL": "https://www.sony.co.in/image/d1e9f71c93a7e1310fac09b244d6b24c?fmt=pjpeg&wid=660&hei=660&bgcolor=F1F5F9&bgc=F1F5F9",
+      "name": "Sony Camera",
+      "category": "Cameras",
+      "price": "30000",
+      "quantity": "10",
+      "stock": "Yes",
+      "id": 7
+    },
+    {
+      "imageURL": "https://www.gizmochina.com/wp-content/uploads/2019/08/Xiaomi-Redmi-Note-8-Pro-2.jpg",
+      "name": "Redmi Note 8 Pro",
+      "category": "Mobiles",
+      "price": "17999",
+      "quantity": "15",
+      "stock": "Yes",
+      "id": 10
+    },
+    {
+      "imageURL": "https://www.powerplanetonline.com/cdnassets/funda_silicona_samsung_galaxy_m10_02_ad_l.jpg",
+      "name": "Samsung M10",
+      "category": "Mobiles",
+      "price": "6770",
+      "quantity": "87",
+      "stock": "Yes",
+      "id": 16
+    },
+    {
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/91HSQCOoV3L._SX522_.jpg",
+      "name": "Fujifilm X-T30",
+      "category": "Cameras",
+      "price": "82999",
+      "quantity": "89",
+      "stock": "Yes",
+      "id": 22
+    },
+    {
+      "imageURL": "https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/21/E8/434159be-aec5-47c6-b2a5-dfb9f24233c5.jpg",
+      "name": "Redmi K20 Pro",
+      "category": "Mobiles",
+      "price": "24999",
+      "quantity": "89",
+      "stock": "Yes",
+      "id": 23
+    },
+    {
+      "imageURL": "https://www.reliancedigital.in/medias/Canon-EOS-M200-DSLR-491600501-i-2-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5MTAxOHxpbWFnZS9qcGVnfGltYWdlcy9oYTgvaDkzLzkyMTY3MDA5MDc1NTAuanBnfGE2ODkxNzg2MTNlNzdiMjU0MzdhYzkwZjdiNTgyZTRjMGQ0MzA1ZjU2ZWMzYTRmNjI0MzhiYWNjODA4N2E1ZGY",
+      "name": "Cannon EOS",
+      "category": "Cameras",
+      "price": "50999",
+      "quantity": "54",
+      "stock": "Yes",
+      "id": 24
+    },
+    {
+      "imageURL": "https://www.digitaldreamsjaipur.com/wp-content/uploads/2020/07/hp-laptop-15s-du2058tu-1.jpg",
+      "name": "HP Laptop",
+      "category": "Laptops",
+      "price": "92999",
+      "quantity": "53",
+      "stock": "Yes",
+      "id": 25
+    },
+    {
+      "imageURL": "https://rukminim1.flixcart.com/image/352/352/k4a7c7k0/cases-covers/back-cover/f/p/x/cocklet-newglassback-02-original-imafdmywrtmersh6.jpeg?q=70",
+      "name": "Apple Iphone6",
+      "category": "Mobiles",
+      "price": "28000",
+      "quantity": "189",
+      "stock": "Yes",
+      "id": 26
+    },
+    {
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTumD3RevtXqld3Yv7jVvpaW05FlTvXgii5Nd8K6cOaKTbX7Qz6dnEiZVVn-h1oz4ScxSm-WHXKh3jjL0bjRBYX9ybw9UJ4Oa4QoQ&usqp=CAU&ec=45690273",
+      "name": "Lenovo Ideapad",
+      "category": "Laptops",
+      "price": "50099",
+      "quantity": "220",
+      "stock": "Yes",
+      "id": 27
+    },
+    {
+      "imageURL": "https://my-techspace.com/wp-content/uploads/2020/07/OPPO-Reno-4-Pro-Global-Version-Renders-Leaked.jpg",
+      "name": "Oppo Reno 4 Pro",
+      "category": "Mobiles",
+      "price": "38000",
+      "quantity": "91",
+      "stock": "Yes",
+      "id": 28
+    }
+  ]
+}
