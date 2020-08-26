@@ -188,7 +188,7 @@ class EditProduct extends React.Component {
             <div>
                 <form onChange={this.handleSubmit} noValidate>
                     <fieldset>
-                        <legend>Add Product</legend>
+                        <legend>Edit Product</legend>
                         <label htmlFor="Image">Image:</label>
                         <input type="url" id="imageURL" value={this.state.imageURL} onChange={this.getUrl} placeholder="Image URL*" noValidate />
                         <br></br>
